@@ -1,0 +1,20 @@
+[14-Jun-2023 14:41:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/oceankiruthik/public_html/flix_casting/app/Http/Controllers/backend/IndexController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/oceankiruthik/public_html/flix_casting/app/Http/Controllers/backend/IndexController.php on line 13
+[14-Jun-2023 14:41:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/oceankiruthik/public_html/flix_casting/app/Http/Controllers/backend/IndexController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/oceankiruthik/public_html/flix_casting/app/Http/Controllers/backend/IndexController.php on line 13
+[14-Jun-2023 14:41:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/oceankiruthik/public_html/flix_casting/app/Http/Controllers/backend/IndexController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/oceankiruthik/public_html/flix_casting/app/Http/Controllers/backend/IndexController.php on line 13
+[14-Jun-2023 14:41:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/oceankiruthik/public_html/flix_casting/app/Http/Controllers/backend/IndexController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/oceankiruthik/public_html/flix_casting/app/Http/Controllers/backend/IndexController.php on line 13
+[14-Jun-2023 14:41:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/oceankiruthik/public_html/flix_casting/app/Http/Controllers/backend/GalleryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/oceankiruthik/public_html/flix_casting/app/Http/Controllers/backend/GalleryController.php on line 9

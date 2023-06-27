@@ -1,0 +1,100 @@
+/* home dashboard  */
+.customer-name{
+  display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.sm-desc{
+  width: 400px;
+}
+.sm-link{
+  width: 300px;
+}
+.profile-icon{
+  width: 35px;
+}
+.service-icon{
+  width: 80px;
+}
+.action a{
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+.action a.edit{
+color: rgb(20, 212, 229);
+}
+.action a.delete{
+
+    color: rgb(205, 29, 29);
+
+}
+.add-custmer a{
+    color: white;
+
+}
+.add-custmer button{
+    margin-right: 10px;
+}
+
+.add-custmer{
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px 0;
+    background: white;
+    margin: 5px 0;
+    border-radius: 4px;
+}
+
+.bg-house-loan{
+
+    background-color: orange;
+    color: rgb(255, 255, 255) !important;
+    border: 1px solid orange !important;
+}
+
+.bank-pic img{
+    width: 100px;
+}
+.dashboard-title{
+    font-size: 20px;
+}
+.sidebar-header{
+    justify-content: center !important;
+}
+div.dataTables_wrapper div.dataTables_paginate {
+  margin: 0;
+    margin-top: 0px;
+  white-space: nowrap;
+  text-align: right;
+  margin-top: 8px;
+}
+.docstype1 .card.select {
+  background: #000;
+  color: #fff !important;
+}
+.docstype1 .card.select h3 {
+  color: #fff !important;
+}
+.docstype1 .card.select p {
+  color: #fff !important;
+}
+.table-date{
+  white-space: nowrap;
+}
+.no-wrap-whitespace{
+  white-space: nowrap;
+}
+
+.admin-gallery{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+}
+.admin-gallery img{
+  height: 50px;
+  width: 50px;
+}
